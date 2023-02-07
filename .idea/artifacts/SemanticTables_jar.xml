@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SemanticTables:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SemanticTables_jar</output-path>
+    <root id="archive" name="SemanticTables.jar">
+      <element id="module-output" name="ResolucionCalculoProposicional" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/antlr-runtime-4.11.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

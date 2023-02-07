@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/Calculo.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\3arci\IdeaProjects\SemanticTables\src" />
+          <option name="libDir" value="C:\Users\3arci\IdeaProjects\SemanticTables\src" />
+          <option name="encoding" value="utf-8" />
+          <option name="pkg" value="calcprop.interpreter" />
+          <option name="language" value="Java" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
